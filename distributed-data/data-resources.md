@@ -10,6 +10,7 @@
 - [Blockchain in Healthcare in 2015](http://www.aridhia.com/blog/blockchain-and-digital-health-first-impressions/)
 - [Blockchain Healthcare report 2016](https://tierion.com/blog/blockchain-healthcare-2016-report/) by Tierion
 - [Philips Blockchain Lab](http://www.2.forms.healthcare.philips.com/blockchainlabs ) ( and [news1](http://www.coindesk.com/philips-health-care-launches-blockchain-lab/), [news2](http://www.coindesk.com/health-care-giant-philips-exploring-blockchain-applications/), [news3](http://www.coindesk.com/philips-healthcare-blockchain-lead-departs/) )
+- [IBM & FDA](https://www-03.ibm.com/press/us/en/pressrelease/51394.wss) ([annonuncement en](http://www.computerworld.com/article/3156504/healthcare-it/ibm-watson-fda-to-explore-blockchain-for-secure-patient-data-exchange.html), [annonuncement fr](https://www.sciencesetavenir.fr/high-tech/ibm-et-la-fda-testent-la-blockchain-en-test-l-echange-de-donnees-de-sante_110068))
 - [Gem Healthcare](https://gem.co/health/) by Gem (+ [news](https://bitcoinmagazine.com/articles/the-blockchain-for-heathcare-gem-launches-gem-health-network-with-philips-blockchain-lab-1461674938/) and [blog post](https://blog.gem.co/why-were-building-the-blockchain-for-healthcare-bda5c09870aa))
 - [Brontech](http://bron.tech) from Australia [news article](https://www.ethnews.com/using-the-ethereum-blockchain-for-data-sharing-in-healthcare)
 - [Blockchain and Ethereum in clinical trials](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5357027/), published on 20/10/2016
