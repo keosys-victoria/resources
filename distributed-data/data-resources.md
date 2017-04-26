@@ -15,6 +15,15 @@
 - [Brontech](http://bron.tech) from Australia [news article](https://www.ethnews.com/using-the-ethereum-blockchain-for-data-sharing-in-healthcare)
 - [Blockchain and Ethereum in clinical trials](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5357027/), published on 20/10/2016
 
+## Development
+
+- The Blockchain Explained to Web Developers: [part 1: The Theory](https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html), [part 2: In Practice](https://marmelab.com/blog/2016/05/20/blockchain-for-web-developers-in-practice.html), [part 3: The Truth](https://marmelab.com/blog/2016/06/14/blockchain-for-web-developers-the-truth.html)
+
+## Tools 
+
+- [Multichain](http://www.multichain.com/)
+- [Monax](http://monax.io/) (previously Eris)
+
 # Distributed Data, Data Replication 
 
 - [IBM Big Replicate](http://www-03.ibm.com/software/products/en/ibm-big-replicate)
